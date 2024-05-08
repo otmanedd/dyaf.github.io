@@ -1,5 +1,5 @@
 # Mercedes-Benz
-![Mercedes Logo](mercedes-logo.jpeg)
+![Mercedes Logo](mercedes-logo2.jpg.webp)
 
 
 ## Unsere Fahrzeugkollektion
