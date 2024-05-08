@@ -1,4 +1,6 @@
 # Mercedes-Benz
+![Mercedes Logo](mercedes-logo.jpeg)
+
 
 ## Unsere Fahrzeugkollektion
 
