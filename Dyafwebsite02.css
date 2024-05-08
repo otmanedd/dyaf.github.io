@@ -1,0 +1,129 @@
+/* Globale Stile */
+body {
+    font-family: Arial, sans-serif;
+    color: #fcfcfc; /* Goldene Schriftfarbe */
+    background-color: #000; /* Schwarzer Hintergrund */
+}
+
+header {
+    text-align: center;
+    padding: 100px 20px;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #ffd700; /* Goldene Schaltflächenfarbe */
+    color: #000; /* Schwarze Schriftfarbe für die Schaltfläche */
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+nav {
+    background-color: #000; /* Schwarzer Hintergrund für die Navigationsleiste */
+    padding: 10px 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #ffd700; /* Goldene Schriftfarbe für die Navigationslinks */
+    text-decoration: none;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.gallery img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #000; /* Schwarzer Hintergrund für den Footer */
+    color: #ffd700; /* Goldene Schriftfarbe für den Footer */
+    text-align: center;
+    padding: 10px;
+}
+
+/* Neuer Stil für die Galerie */
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.car-gallery {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 Spalten */
+    grid-gap: 20px; /* Abstand zwischen den Autos */
+}
+
+.car {
+    border: 1px solid #ccc;
+    padding: 20px;
+    position: relative;
+}
+
+.car img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+    display: none;
+}
+
+.car img.active {
+    display: block;
+}
+
+.car h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.car p {
+    font-size: 16px;
+    margin-bottom: 0;
+}
+
+.navigation {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.navigation button {
+    background-color: #ddd;
+    border: none;
+    padding: 5px 10px;
+    margin: 0 5px;
+    cursor: pointer;
+}

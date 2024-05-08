@@ -1,0 +1,17 @@
+// Funktion zum Wechseln zum vorherigen Bild
+function prevSlide(carId) {
+    var car = document.getElementById('car' + carId);
+    var currentSlide = car.querySelector('.active');
+    var prevSlide = currentSlide.previousElementSibling || car.lastElementChild;
+    currentSlide.classList.remove('active');
+    prevSlide.classList.add('active');
+}
+
+// Funktion zum Wechseln zum nächsten Bild
+function nextSlide(carId) {
+    var car = document.getElementById('car' + carId);
+    var currentSlide = car.querySelector('.active');
+    var nextSlide = currentSlide.nextElementSibling || car.firstElementChild;
+    currentSlide.classList.remove('active');
+    nextSlide.classList.add('active');
+}
