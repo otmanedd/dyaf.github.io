@@ -4,7 +4,7 @@
 
 Entdecken Sie die Welt des Luxus und der Innovation.
 
-[![Mercedes Logo](mercedes-logo2.jpeg)](#)
+[![Mercedes Logo](mercedes-logo2.jpg.webp)](#)
 
 [Unsere Fahrzeuge erkunden](#gallery)
 
