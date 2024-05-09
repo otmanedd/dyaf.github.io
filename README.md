@@ -36,15 +36,24 @@ Besuchen Sie die offizielle Seite von Mercedes-Benz A-Klasse: [Mercedes-Benz A-K
 
 # Bildergalerie
 
-<!-- Bilder -->
+
+
+<!-- Erstes Bild -->
 ![Mercedes A Klasse 1](aklasse1.jpg)
 
+<!-- Zweites Bild (ausgeblendet) -->
 ![Mercedes A Klasse 2](aklasse2.jpg)
+<sup> <!-- Dieses Tag wird verwendet, um das Bild auszublenden -->
+[<--](#) <!-- Dieser Link ist deaktiviert, da es kein vorheriges Bild gibt -->
+[-->](#bild2) <!-- Navigationspfeil zum nächsten Bild -->
+</sup>
 
+<!-- Drittes Bild (ausgeblendet) -->
 ![Mercedes A Klasse 3](aklasse3.jpg)
-
-<!-- Navigationspfeile -->
-[<--](#bild1) [-->](#bild2)
+<sup> <!-- Dieses Tag wird verwendet, um das Bild auszublenden -->
+[<--](#bild1) <!-- Navigationspfeil zum vorherigen Bild -->
+[-->](#) <!-- Dieser Link ist deaktiviert, da es kein nächstes Bild gibt -->
+</sup>
 
 
 
