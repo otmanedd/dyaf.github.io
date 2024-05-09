@@ -35,26 +35,25 @@ Besuchen Sie die offizielle Seite von Mercedes-Benz A-Klasse: [Mercedes-Benz A-K
 ## Unsere Fahrzeugkollektion
 
 <!-- Vorheriges Bild -->
-<a href="#bild2" style="float: left;">&#8249;</a>
+<a href="#bild3" style="float: left;">&#8249;</a>
 
 <!-- Nächstes Bild -->
-<a href="#bild3" style="float: right;">&#8250;</a>
+<a href="#bild2" style="float: right;">&#8250;</a>
 
 ### Bild 1: Mercedes A Klasse
 
 ![Mercedes A Klasse 1](aklasse1.jpg)
 
----
-
 ### Bild 2: Mercedes A Klasse
 
 ![Mercedes A Klasse 2](aklasse2.jpg)
 
----
-
 ### Bild 3: Mercedes A Klasse
 
 ![Mercedes A Klasse 3](aklasse3.jpg)
+
+
+
 
 
 ---
